@@ -1,1 +1,1 @@
-# Revocable-Anonymous-Credentials
+# Revocable Anonymous Credentials
