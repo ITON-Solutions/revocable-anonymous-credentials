@@ -1,0 +1,3 @@
+Copyright 2019 Evan Saulpaugh
+
+https://github.com/esaulpaugh/headlong
