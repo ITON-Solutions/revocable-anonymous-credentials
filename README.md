@@ -2,4 +2,4 @@
 
 Java Revocable Anonymous Credentials (JRAC)
 
-The library is a Java implementation of revocable anonymous credentials which allow web users to prove in an uncorrelated way that they possess some identity attributes without revealing other details. Apart from the partial revelation of information, the presented library provides toos for credentials' revocation.
+JRAC is a Java library for developing anonymous credential services. These services allow web users to prove in an uncorrelated way some portion of their identity attributes without revealing other details. Apart from the partial revelation of information, the library provides facilities for managing credentials’ revocation. The background idea has been inspired by the Hyperledger Ursa project (https://github.com/hyperledger/ursa).
